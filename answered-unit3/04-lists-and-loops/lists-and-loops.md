@@ -9,7 +9,7 @@ from random import randint
 numberlist = []
 
 for i in range(10):
-    numberlist.append(random.randint(0,99))
+    numberlist.append(randint(0,99))
 
 print(numberlist)
 
