@@ -8,20 +8,19 @@ for i in range(10):
 print(numberlist)
 
 total = 0
-for number in numberlist:
-    total = total + number
+for whatever in numberlist:
+    total = total + whatever
 
 print("Sum: ", total)
 
 newlist = []
-
 for number in numberlist:
     newlist.append(number * 2)
 
 print(newlist)
 
 for number in numberlist:
-    if number < 40:
+    if number > 40:
         print(number)
 
 strlist = []

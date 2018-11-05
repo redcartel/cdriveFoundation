@@ -7,6 +7,7 @@ VAL_A = ord('A')
 VAL_Z = ord('Z')
 
 output_message = []
+newmessage = ""
 
 for char in phrase:
     val = ord(char)
@@ -17,5 +18,6 @@ for char in phrase:
     else:
         newval = val
     output_message.append(chr(newval))
+    newmessage = newmessage + chr(newval)
 
 print("".join(output_message))
