@@ -1,0 +1,15 @@
+{
+  "key1": 5,
+  "key3": [
+    0,
+    2,
+    4,
+    6,
+    8
+  ],
+  "key2": "value",
+  "subdictionary" : {
+    "first" : 1,
+    "second" : 2
+  }
+}

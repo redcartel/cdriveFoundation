@@ -1,0 +1,14 @@
+{
+    "carter": { 
+        "studentID": "0001",
+        "GPA": 68.5
+    },
+    "kenso": {
+        "studentID": "0002",
+        "GPA": 75.5
+    },
+    "greg": {
+        "studentID": "0003",
+        "GPA": 85.9
+    }
+}
