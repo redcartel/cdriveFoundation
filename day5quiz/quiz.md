@@ -8,7 +8,7 @@
 a = [0, 1, 4, 9, 16, 25, 36, 49]
 ```
 
-use built-in functions to do the following three operations
+Use built-in functions to do the following three operations
 
     1) calculate the length of the list.
 
@@ -40,6 +40,7 @@ e!
 ```
 
 * Use a for loop and a range to produce the same output as this code:
+
 ```
 start = -10
 stop = 50

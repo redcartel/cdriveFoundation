@@ -14,7 +14,7 @@
 
 8. Open numbers.txt. For each row in the file, print the sum of the numbers.
 
-9. Open numbers.txt. Print the rows in reverse order.
+9. Open numbers.txt. Print the rows in reverse order (the last row should be first, the second to last row should be second, etc.)
 
 10. Open numbers.txt. Append a row of zeroes to the end of the file.
 
@@ -26,13 +26,13 @@
 
 14. Open example.json, add the key "five" with the value 5 to the dictionary, and then save the dictionary over the existing example.json.
 
-15. Open example.json, read it into a dictionary. The values are lists. Print each key next to the first element of its corresponding list value.
+15. Open example2.json, read it into a dictionary. The values are lists. Print each key next to the first element of its corresponding list value.
 
 16. Open example3.json, read it into a dictionary. Print the names of the students next to their student ID number for each student.
 
-17. Open example4.json, create a new student record like the others. Her name is "kai," her studentID is 0004, and her GPA is 91.2.
+17. Open example3.json, create a new student record like the others. Her name is "kai," her studentID is 0004, and her GPA is 91.2.
 
-18. Open example5.json, create an input loop. Until the user enters "done" ask for a student name, a studentID, and a GPA. Add them to the dictionary. After they are done inputting data, save it to a json file.
+18. Open example3.json, create an input loop. Until the user enters "done" ask for a student name, a studentID, and a GPA. Add them to the dictionary. After they are done inputting data, save it to a json file.
 
 19. OPTIONAL: Use try & except block to handle input for GPA that can't convert into a float. Display an error message and then start over with student name.
 
