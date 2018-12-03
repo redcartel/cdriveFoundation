@@ -32,5 +32,23 @@ print("hello world")
 
 * You should see the text "hello world" in a new window.
 
-* Congratuulations, you're all done!
 
+## VS Code
+
+* VS Code is a more powerful editor than IDLE, it will help you find bugs and it will suggest the names of functions.
+
+* Download it from [http://code.visualstudio.com].
+
+* After installing, launch VSCode
+
+* Go to View > Extensions in the menu
+
+* Search for the "Python" extension from Microsoft and install it.
+
+* To work with a folder of python files you will go to file > Open Folder (just file > Open on Mac) and open that folder.
+
+* Create a new file and save it as hello.py. Put a print() statement in it.
+
+* Right click the file and select "Run Python file in terminal"
+
+* You should see the results of your code.
