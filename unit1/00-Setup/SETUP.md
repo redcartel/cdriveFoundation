@@ -20,9 +20,7 @@
 
 * Create a new folder in your Documents or on your Desktop called "Byte"
 
-* Create a new file in IDLE
-
-* Type in
+* Create a new file in IDLE and enter:
 
 ```
 print("hello world")

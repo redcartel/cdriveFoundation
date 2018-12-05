@@ -1,4 +1,4 @@
-# Show Me The Money
+## Loose Change 
 ---
 
 ##### Challenge
@@ -34,9 +34,32 @@ Use the following as denominations for your currencies:
 0 $50
 0 $20
 1 $10
+0 $5
 2 $1
-1 quarter
+1 quarters
 3 dimes
 0 nickel
-3 penny
+3 pennies
+```
+
+* You can do this without if statements! Remember the // and % operators. Hint: Convert the amount input into cents as the first step. It's always easier to work with whole numbers than with floating point values.
+
+* Extra extra challenge: Use proper plurals for bills when there are multiples or zero.
+
+```
+...
+1 $10
+0 $5s
+2 $1s
+1 quarter
+3 dimes
+0 nickels
+3 pennies
+```
+
+hint:
+
+```python
+endings = ("s", "", "s", "s", "s")
+# ending[1] = ?
 ```

@@ -12,22 +12,31 @@
 
 * Add with +, multiply with ``*``, divide with /, and subtract with -
 
-* Try storing the results of your calculations to variables. If you type in just the name of a variable, the interpreter will output its value. It is an error to check the value of a variable that hasn't been assigned one.
+* What is 100 / 7?
 
-* Type 7 * 12 press enter, and then print the special variable _ (the underscore). What do you think _ does? (This only works in the REPL, don't use it in real programs).
+* What is 100 * 7?
 
-* What happens when you do calculations with integers (like 0, 1, 2, 3) and floats (like 1.7, 8.1234, 3.14) together? What if the float is a whole number like 3.0?
+* What is 100.0 * 7?
 
-* try this:
+* What is 100 // 7?
 
-```
-a = 0
-a = a+1
-```
+* What is 23 % 10?
 
-* then press the up key to repeat a=a+1. Do it again. Do it a few times. Then print a.
+* What is 6 + 7 * 8?
 
-* now enter a + 1. print a. press the up key and then hit enter to enter it again. print a.
+* What is (6 + 7) * 8?
+
+* What is 5 ** 3?
+
+* What is 10 + 10?
+
+* What is 10 + 10.0?
+
+* What is int(3.8)
+
+* What is round(3.8)
+
+* Store the value 10000 in a variable called principal. Store the value 1.05 in a variable called interest. Enter the line ``` principal = principal * interest ```. Using either print or by entering the variable name see what the value of principal is. Use the up key to repeat the multiplication a few times. Now see what the value is. 
 
 * run the following commands:
 
@@ -38,7 +47,7 @@ a = 5
 print(b)
 ```
 
-* do you understand what happened?
+* Do you understand what happened? Assignment like this takes the value stored in a and stores it in b. It does not create a permanent equality.
 
 * The = sign by itself is the assignment operator. It is used to store a value in a variable. You will learn about testing for equality later, that uses a double ==. They are two different things!
 
@@ -47,12 +56,6 @@ print(b)
 * type "7" == 7
 
 * We'll come back to that!
-
-* Try the ** (exponent) and // (floor division) and % (remainder or 'modulus') operators. Do you have a sense of what they do? 
-
-* What does int(7.8) do?
-
-* What does float(5) do?
 
 ## Strings
 
@@ -64,13 +67,43 @@ print(b)
 
 * Try using the print statement with different arguments. Try more than one argument separated by commas. ``` print("a", "b", 3, 7) ```
 
-* type "I have ${}.".format(3.3333)
+* type ```"I have ${}.".format(3.3333)```
 
-* type "I have ${:.2f}.".format(3.3333)
+* type ```"I have ${:.2f}.".format(3.3333)```
+
+* type ```"ho " * 3```
+
+* type ```"Academy" in "Byte Academy"```
+
+* type ```int("17")```
+
+* type ```float("3.14159")```
+
+* type ```int("number 8")```
+
+* type ```"emphasize".upper()```
+
+* type ```len("emphasize")```
+
+## Some tuples
+
+* type ```t = (1,2,3)```
+
+* type ```t[0]```
+
+* type ```t[2]```
+
+* type ```s = ("Python", "programming", "is", "fun")```
+
+* type ```"programming" in s```
+
+* type ```len(s)```
 
 ## The help() function
 
 * Type in help(print) what do you see?
+
+* (use the 'q' key to get out of help view)
 
 * You can use help on most python functions, and modules (we'll cover modules later).
 
@@ -97,5 +130,3 @@ print(b)
 * Type ```from math import sqrt```
 
 * Now type sqrt(16)
-
-* Can you use the other functions without preceding them with math. ? Do you think you have an idea of what ``` import x ``` and ``` from x import y``` do?

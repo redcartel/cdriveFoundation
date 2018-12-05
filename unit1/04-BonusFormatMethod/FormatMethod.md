@@ -2,7 +2,7 @@
 
 * This is an exercise in string formatting but also in reading documentation!
 
-[https://docs.python.org/3/library/string.html] has the documentation for how .format works. Scroll down to "Format String Syntax"
+[https://docs.python.org/3/library/string.html] has the documentation for how string.format() works. Scroll down to "Format String Syntax"
 
 * Trial and error are your friends. A whole lot of the job of coding is learning how to learn from documentation and online Q&A answers.
 
@@ -23,7 +23,7 @@ Look at [Nikil          ] now.
 Look at [Josephine      ] now.
 ```
 
-With the same print & format statement, just with the variables changed. That's 15 characters between the braces for both outputs.
+With the same print & format statement, just with the variables changed. That's 15 characters between the braces for both outputs. You will use < and > in your format.
 
 * Now print
 
@@ -33,3 +33,5 @@ Look at [      Josephine] now.
 ```
 
 Once again, using the same print statement.
+
+* Try to print the number 13 as binary (it will be 1101).
