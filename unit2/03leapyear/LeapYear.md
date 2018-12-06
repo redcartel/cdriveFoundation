@@ -4,11 +4,17 @@
 
 * To adjust for the year not being an exact number of days, some years have an extra day, the 29th of September.
 
-* A year is a leap year if it is divisible by 4.
+* Most of the time, a year is a leap year if it is divisible by 4.
 
 * A year is not a leap year if it is also divisible by 100.
 
-* But it is a leap year if it is divisible by 400.
+* But it is a leap year if it is also divisible by 400.
+
+2016 is a leap year.
+
+1900 and 2100 are not a leap years.
+
+1600 and 2000 are leap years.
 
 #### The assignment
 

@@ -18,6 +18,6 @@
 
 * More than one of the above three tests can be true and print their message. If none of them are true, print "Not divisible by two, three, or four."
 
-* If the number is not divisible by seven, multiply it by seven. If it is divisible by seven, divide it by seven. Then print the result.
+* If the number is not divisible by seven, multiply it by seven. If it is divisible by seven, divide it by seven. Then print the final value.
 
 * That's it!

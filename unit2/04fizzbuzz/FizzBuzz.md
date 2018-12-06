@@ -24,3 +24,26 @@ Fizz
 FizzBuzz
 16
 ```
+
+* pt 2:
+
+Write a second version of the program. It should input an integer from the user. Then print numbers counting *down* from that number to 1 with Fizz, Buzz, and FizzBuzz replacing them as before.
+
+```
+Input the starting number: 15
+FizzBuzz
+14
+13
+Fizz
+11
+Buzz
+Fizz
+8
+7
+Fizz
+Buzz
+4
+Fizz
+2
+1
+```

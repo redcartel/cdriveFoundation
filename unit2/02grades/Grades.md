@@ -22,4 +22,4 @@
 
 * Have it add a + to a grade if the grade ends in a 9. (Like 89 is a "B+." Have it add a - to a grade if the grade ends in a 0 (like 60 is a "D-"
 
-* Do the above except there is not F- or F+ and a 100 should be an A+
+* Do the above except there is no F- or F+ and a 100 should be an A+

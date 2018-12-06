@@ -1,7 +1,5 @@
 ## The 'try' and 'except' statements
 
-#### Bonus material
-
 * Look at this code:
 
 ```
@@ -26,8 +24,27 @@ except ValueError:
 
 * If they enter a value that is not 'done' and is not a valid number, it gives a friendly error message and then asks them to try again.
 
+```
+Input a number, input 'done' to exit: 17
+17 is not even
+
+Input a number, input 'done' to exit: 14
+14 is even
+
+Input a number, input 'done' to exit: five
+I do note recognize the input 'five'
+
+Input a number, input 'done' to exit: done
+Goodbye
+```
+
 * You'll need a while loop. You don't have to use it, but the 'continue' statement from the textbook might be useful.
 
-#### Extra challenge
+#### Extra:
 
 * Look over your previous exercises for places where the input() statement is used. Can any of these programs be improved with some basic exception handling?
+
+#### Demo Day Code:
+
+Sometimes you need to show off some partially completed work to your boss.  This is bad coding but it can occasionally do the trick:
+

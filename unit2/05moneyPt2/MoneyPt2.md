@@ -16,3 +16,15 @@ You have 3 quarters.
 You have 1 nickel.
 You have 1 penny.
 ```
+
+* Challenge:
+
+```
+quantities = ("hundred dollar bill", "fifty dollar bill", "twenty dollar bill", "ten dollar bill", "five dollar bill", "one dollar bill", "quarter", "dime", "nickel", "penny")
+
+quantities_plural = ("hundred dollar bills", "fifty dollar bills", "twenty dollar bills", "ten dollar bills", "five dollar bills", "one dollar bills", "quarters", "dimes", "nickels", "pennies")
+
+values = (10000, 5000, 2000, 1000, 500, 100, 25, 10, 5, 1)
+```
+
+With this code, can you simplify the solution to this problem so that the same code uses the same logic for each denomination of currency?
