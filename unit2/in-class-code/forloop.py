@@ -38,7 +38,7 @@ while True:
         user_input = int(user_input)
     except ValueError:
         print("Did not recognize that input")
-        continue
+         continue
 
     if user_input > _max:
         _max = user_input
