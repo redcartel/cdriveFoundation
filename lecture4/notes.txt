@@ -1,3 +1,0 @@
-the def statement and the return statement
-
-return vs. print
