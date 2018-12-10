@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My New Homepage!</title>
+    
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    
+    <style>
+
+body {
+    
+}
+
+header {
+    min-height: 60px;
+    background-color: #aaa;
+    color: #111;
+    padding: 20px 40px 20px 40px;
+    clear: both;
+}
+
+header h1 {
+    font-size: 4em;
+}
+
+div.row {
+    position: relative;
+    display: flex;
+    clear: both;
+}
+
+div.left {
+  float: left;
+  background-color: black;
+  color: white;
+  padding: 10px 10px 0px 10px;
+  min-width: 150px;
+  max-width: 33%;
+}
+
+div.right {
+  float: right;
+  padding: 40px 100px 0px 40px;
+  flex: auto;
+}
+
+div.left h2 {
+    font-size: 2.5em;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+ul.menulist {
+    font-family: sans-serif;
+}
+
+ul.menulist li {
+    margin-bottom: 20px;
+    font-size: 1.25em;
+    text-align: right;
+}
+
+ul.menulist a {
+  text-decoration: none;
+  color: #aaa;
+}
+
+ul.menulist a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+footer {
+    min-height: 50px;
+    padding: 40px 40px 10px;
+    text-align: right;
+    background-color: #111;
+    color: #ddd;
+}
+
+img#headshot {
+    float: right;
+    width: 120px;
+    margin: 0px 0px 20px 20px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+form {
+    margin-bottom: 40px;
+    border: solid #aaa 1px;
+}
+
+form h3 {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+form div {
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+    </style>
+  </head>
+  <body>
+  
+    <div class="wrapper">
+      <header>
+        <h1>My New Homepage</h1>
+      </header>
+      <div class="row">
+        <div class="left">
+
+          <h2>Menu</h2>
+          <ul class="menulist">
+              <li><a href="http://www.byteacademy.co">item 1</a></li>
+              <li><a href="#">item 2</a></li>
+              <li><a href="#">item 3</a></li>
+              <li><a href="#">item 4</a></li>
+          </ul>
+        </div>
+        <div class="right">
+            <img src="headshot.png" id="headshot">
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mollis ligula et libero mollis, et efficitur metus malesuada. Donec nulla mauris, viverra pharetra eros at, vehicula viverra ipsum. Maecenas eget luctus lectus. Donec pellentesque enim ante, at tempus lorem tempus at. <a href="http://www.example.com">A link</a> Sed rutrum enim sit amet aliquam gravida. Donec varius, ipsum vel facilisis pharetra, dui dui imperdiet ex, in congue magna massa a nibh. Pellentesque a tellus vel est faucibus rhoncus. Nam elementum interdum mi. Nunc sem tellus, elementum ut luctus eu, tempus in metus. Praesent vel imperdiet ante. Nam at sagittis ipsum.
+          </p>
+          <p>
+              In et semper erat, eget volutpat libero. Suspendisse iaculis imperdiet leo in pellentesque. Integer non placerat eros. Fusce condimentum dictum eros vitae commodo. Suspendisse lacus sem, porta id dictum in, pretium hendrerit libero. Etiam lacinia nisi a diam accumsan sollicitudin. Maecenas in leo est. Maecenas tempor augue urna, id blandit sapien mattis id. Praesent condimentum fringilla nisi sed tincidunt. Duis suscipit lectus condimentum pharetra ultrices. Vestibulum interdum ac massa a porta. Nulla consectetur facilisis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In vitae lacus suscipit, eleifend sapien eget, scelerisque libero. Ut quis neque lacinia, dictum metus rutrum, lacinia nisi.
+          </p>
+          <p>
+              Nullam finibus mattis elit, auctor bibendum lectus sollicitudin non. Nulla laoreet tristique lectus. Cras vulputate id eros sed cursus. Nam tortor turpis, pharetra eu ligula ac, fermentum consequat quam. Nulla tempor urna quis varius hendrerit. Pellentesque commodo arcu sit amet metus congue, sed bibendum odio venenatis. Aenean fringilla convallis scelerisque.
+          </p>
+          <p>
+              Mauris pulvinar felis quis sapien egestas, ac faucibus metus aliquet. Nullam egestas ornare metus. Curabitur ac euismod nisl. Morbi quis consectetur ligula. Aenean luctus egestas quam et maximus. In mattis tincidunt tellus sit amet tempus. Suspendisse vitae leo nec purus fringilla dictum ac vitae est. Ut rhoncus orci quis risus scelerisque, nec pretium nunc sagittis. Proin dignissim laoreet finibus. Fusce placerat tincidunt leo. Sed enim felis, rhoncus ac arcu eu, tempus laoreet justo. Integer ante sem, tempus id eros at, accumsan sodales ex. In et vulputate nunc.
+          </p>
+            <form action="/server/url" method="post">
+            <h3>Input your information:</h3>
+            <div>
+                <input name="field1" value="an input box">
+            </div>
+            <div>
+                <input name="field2" value="another input box">
+            </div>
+                <div>
+                <input type="radio" name="options" value="one"><label>option one</label>
+                </div>
+                <div>
+                <input type="radio" name="options" value="two"><label>option two</label>
+                </div>
+                <div>
+                <input type="radio" name="options" value="thre"><label>option three</label>
+                </div>
+            <div>
+                <input type="submit">
+            </div>
+          </form>
+        </div>
+      </div>
+      <footer>
+        &copy; Carter Adams, 2018
+      </footer>
+    </div>
+
+  </body>
+</html>

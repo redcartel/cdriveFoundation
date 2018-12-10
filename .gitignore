@@ -115,14 +115,19 @@ dmypy.json
 .pyre/
 
 # Carter additions
-.zip
-.7z
-.csv
-.db
+*.zip
+*.7z
+*.csv
+*.db
 __MACOSX/
-.tgz
-.gz
-.bz
+*.tgz
+*.gz
+*.bz
+*.swp
 bak/
 tmp/
 .git/
+tags/
+node_modules/
+notgit/
+nohup.out

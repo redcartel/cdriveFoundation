@@ -1,0 +1,23 @@
+
+{
+    "masks": {
+        "id": "valore"
+    },
+    "om_points": "value",
+    "parameters": {
+        "id": "valore"
+    },
+    "nonevalue": null,
+    "list of dicts": [
+        {
+            "id": "blabla",
+            "iscategorical": 0
+        },
+        {
+            "id": "blabla",
+            "iscategorical": true
+        }
+    ],
+    "numeric_value": 56,
+    "list": [1, 2, 3, 4, "string", false, 5]
+}

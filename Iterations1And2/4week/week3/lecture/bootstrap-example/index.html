@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Adapting a template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+    
+    <link href="static/style.css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        Navigation Areas
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Teaching Experience</a>
+                </li>
+                <li>
+                    <a href="#">Development Experience</a>
+                </li>
+                <li>
+                    <a href="#">Non-profit Work</a>
+                </li>
+                <li>
+                    <a href="#">etc.</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <h1>Carter Adams</h1>
+                <p>
+                I am a developer living in New York City. Currently I am an instructor at Byte Academy, a Python bootcamp offering curriculum in fullstack development, data science, fintech, and blockchain.
+                </p>
+                <p>
+                Before this I worked in small-client web development and on a large public facing web application in higher education.
+                </p>
+                <div class="container">
+                    <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Toggle Menu</a>
+                </div>
+                <div class="container">
+                    <div class="float-md-right col-md-4">
+                        <img class="img-fluid" src="static/headshot.png" id="headshot"/>
+                    </div>
+                    <div class="float-md-right col-md-8">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>

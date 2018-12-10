@@ -1,0 +1,17 @@
+{
+ "key1": 100,
+ "key2": "value",
+ "key3": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "key4": {
+  "this": "is",
+  "a": "sub",
+  "dictionary": null
+ }
+}
