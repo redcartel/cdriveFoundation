@@ -1,0 +1,26 @@
+{
+  "greg": {
+    "GPA": 85.9,
+    "studentID": "0003"
+  },
+  "rak": {
+    "GPA": 100.0,
+    "studentID": "0005"
+  },
+  "carter": {
+    "GPA": 68.5,
+    "studentID": "0001"
+  },
+  "kenso": {
+    "GPA": 75.5,
+    "studentID": "0002"
+  },
+  "kai": {
+    "GPA": 91.2,
+    "studentID": "0004"
+  },
+  "jenna": {
+    "GPA": 87.9,
+    "studentID": "0006"
+  }
+}

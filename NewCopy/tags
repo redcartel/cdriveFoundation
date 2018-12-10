@@ -1,0 +1,615 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX	curriculum/curriculum.py	/^    MAX = None$/;"	v
+MAX	curriculum/curriculum.py	/^    MAX = int(argv[1])$/;"	v
+VAL_A	answered-unit3/06-challenge-caesar-cypher/answer.py	/^VAL_A = ord('A')$/;"	v
+VAL_Z	answered-unit3/06-challenge-caesar-cypher/answer.py	/^VAL_Z = ord('Z')$/;"	v
+VAL_a	answered-unit3/06-challenge-caesar-cypher/answer.py	/^VAL_a = ord('a')$/;"	v
+VAL_z	answered-unit3/06-challenge-caesar-cypher/answer.py	/^VAL_z = ord('z')$/;"	v
+_max	unit2/in-class-code/forloop.py	/^        _max = user_input$/;"	v
+_max	unit2/in-class-code/forloop.py	/^_max = 0$/;"	v
+a	answered-day5quiz/answer.py	/^a = [0, 1, 4, 9, 16, 25, 36, 49]$/;"	v
+a	lecture3-4/04-lists.py	/^a = (1, 2, 3)$/;"	v
+a	lecture3-4/04-lists.py	/^a = a + (4, 5, 6)$/;"	v
+a	lecture3-4/05-slices.py	/^a = "0123456789"$/;"	v
+a	lecture3-4/05-slices.py	/^a = ["a", "b", "c", "d", "e"]$/;"	v
+a	lecture3-4/05-slices.py	/^a = [1,2,3,4,5]$/;"	v
+accumulator	lecture3-4/03-forin.py	/^        accumulator = accumulator + letter + numbercharacter + ","$/;"	v
+accumulator	lecture3-4/03-forin.py	/^        accumulator = accumulator + letter$/;"	v
+accumulator	lecture3-4/03-forin.py	/^    accumulator = accumulator + " "$/;"	v
+accumulator	lecture3-4/03-forin.py	/^    accumulator = accumulator + str(number)$/;"	v
+accumulator	lecture3-4/03-forin.py	/^accumulator = ""$/;"	v
+accumulator	lecture3-4/04-lists.py	/^    accumulator = accumulator + string$/;"	v
+accumulator	lecture3-4/04-lists.py	/^accumulator = ""$/;"	v
+alice	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^alice = {$/;"	v
+alice	scratch/unit7/01-student-record/answer.py	/^alice = {$/;"	v
+alice	today/unit7/01-student-record/answer.py	/^alice = {$/;"	v
+alice	unit7/01-student-record/answer.py	/^alice = {$/;"	v
+alist	answered-unit3/03-simple-lists/answer.py	/^alist = list(inputstring)$/;"	v
+alist	lecture3-4/04-lists.py	/^alist = ["first", "second", "third", "fourth"]$/;"	v
+alist	lecture3-4/04-lists.py	/^alist = [1, 2, 3, 4]$/;"	v
+alphabet	answered-unit6/03-word-count/answer.py	/^alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"$/;"	v
+alphaonly	lecture5/demo.py	/^def alphaonly(word):$/;"	f
+alphaonly	lecture5/lettersonlyprocess.py	/^def alphaonly(word):$/;"	f
+amount	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^amount = 6.7$/;"	v
+amount	answered-unit1-UPDATE/05-LooseChange/newanswer.py	/^amount = amount - hundreds * 10000$/;"	v
+amount	answered-unit1-UPDATE/05-LooseChange/newanswer.py	/^amount = float(input("How much money do you have? "))$/;"	v
+amount	answered-unit1-UPDATE/05-LooseChange/newanswer.py	/^amount = round(amount * 100)$/;"	v
+amount	answered-unit1/03-BonusFormatFunction/answer.py	/^amount = 6.7$/;"	v
+answer	lecture3-4/01-sequence-types.py	/^answer = "yes"$/;"	v
+arevowels	answered-review_questions/pt1answers/q14.py	/^def arevowels(word):$/;"	f
+astring	lecture3/05slices.py	/^astring = "Slices work on strings too!"$/;"	v
+average	answered-unit6/04-process-file/answer.py	/^average = total \/ len(floatlist)$/;"	v
+average	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^    average = avg(hwlist, quizlist, testlist)$/;"	v
+avg	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^def avg(homework, quizzes, tests):$/;"	f
+b	lecture3-4/04-lists.py	/^b = [1, 2, 3]$/;"	v
+b	lecture3-4/05-slices.py	/^b = a[2:5]$/;"	v
+b	lecture3-4/05-slices.py	/^b = a[:]$/;"	v
+balance	lecturepad5/lecturepad5.py	/^balance = 1000.00$/;"	v
+bigger_data	lecture8/jsondump.py	/^bigger_data = {$/;"	v
+blist	lecture3-4/04-lists.py	/^blist = ["a", "b", "c", "d", "e", "f"]$/;"	v
+buildlist	scratch/unit7/02-word-count2/word-count-answer.py	/^def buildlist(counts):$/;"	f
+caplong	answered-unit5/03-variable-caps/answer.py	/^def caplong(string):$/;"	f
+capsornot	answered-unit5/03-variable-caps/answer2.py	/^def capsornot(word):$/;"	f
+capsornot	answered-unit5/03-variable-caps/question3unit5answer.py	/^def capsornot(word):$/;"	f
+capstringlist	answered-unit5/03-variable-caps/answer.py	/^def capstringlist(strlist):$/;"	f
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - dimes * 10$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - fifties * (50 * 100)$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - fives * (5 * 100)$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - hundreds * (100 * 100)$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - nickels * 5$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - ones * (1 * 100)$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - quarters * 25$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - tens * (10 * 100)$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = cents - twenties * (20 * 100)$/;"	v
+cents	answered-unit1-UPDATE/05-LooseChange/answer.py	/^cents = int(float(value) * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - dimes * 10$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - fifties * (50 * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - fives * (5 * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - hundreds * (100 * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - nickels * 5$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - ones * (1 * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - quarters * 25$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - tens * (10 * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = cents - twenties * (20 * 100)$/;"	v
+cents	answered-unit1/04-BonusMoney/answer.py	/^cents = int(float(value) * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - dimes * 10$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - fifties * (50 * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - fives * (5 * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - hundreds * (100 * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - nickels * 5$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - ones * (1 * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - quarters * 25$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - tens * (10 * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = cents - twenties * (20 * 100)$/;"	v
+cents	answered-unit2/05moneyPt2/money.py	/^cents = int(float(value) * 100)$/;"	v
+charlist	answered-review_questions/pt1answers/q13.py	/^charlist = list(input1)$/;"	v
+charlist2	answered-review_questions/pt1answers/q13.py	/^charlist2 = list(input2)$/;"	v
+check	answered-unit1/02-PayCalculator/answer.py	/^check = time * rate$/;"	v
+choice	answered-review_questions/pt1answers/q08.py	/^choice = input("rock, paper, or scissors? ")$/;"	v
+choice	answered-review_questions/pt1answers/q08bonus.py	/^choice = input("rock, paper, or scissors? ")$/;"	v
+cleanword	scratch/unit7/02-word-count2/word-count-answer.py	/^def cleanword(word):$/;"	f
+clist	lecture3-4/04-lists.py	/^clist = [0, -5, -10, -15, 10, 20, -20, 15, 5]$/;"	v
+compute	answered-unit5/01-function-pay/answer.py	/^def compute(hours, rate):$/;"	f
+coordinates	lecture3/02sequences.py	/^coordinates = (1.5, 7.89, 9.7)$/;"	v
+copy_and_modify	lecture7/bak/D_dict.py	/^def copy_and_modify(a_dictionary=ordered):$/;"	f
+counting	lecture3/04lists.py	/^counting = list(range(10))$/;"	v
+countlist	answered-unit7/02-word-count2/advanced-answer.py	/^    countlist = sorted_dict(counts)$/;"	v
+countlist	scratch/unit7/02-word-count2/word-count-answer.py	/^countlist = buildlist(wordcounts)$/;"	v
+counts	answered-unit7/02-word-count2/advanced-answer.py	/^    counts = countwords("mobydick.txt")$/;"	v
+counts	answered-unit7/02-word-count2/answer.py	/^counts = {}$/;"	v
+counts	scratch/examplecount.py	/^counts = {}$/;"	v
+counts_dict	answered-unit7/02-word-count2/answer.py	/^counts_dict = get_counts_dict("mobydick.txt")$/;"	v
+counts_list	answered-unit7/02-word-count2/answer.py	/^counts_list = get_sorted_counts_list(counts_dict)$/;"	v
+countwords	answered-unit7/02-word-count2/advanced-answer.py	/^def countwords(filename):$/;"	f
+cpu_choice	answered-review_questions/pt1answers/q08bonus.py	/^cpu_choice = possibilities[index]$/;"	v
+data	answered-day9quiz/answers/answer5.py	/^data = json.load(file_object)$/;"	v
+data	answered-review_questions/pt2answers/q12.py	/^data = { "Hello" : "World" }$/;"	v
+data	answered-review_questions/pt2answers/q13.py	/^data = json.load(file_object)$/;"	v
+data	answered-review_questions/pt2answers/q14.py	/^data = json.load(file_object)$/;"	v
+data	answered-review_questions/pt2answers/q15.py	/^data = json.load(file_object)$/;"	v
+data	answered-review_questions/pt2answers/q16.py	/^data = json.load(file_object)$/;"	v
+data	answered-review_questions/pt2answers/q17.py	/^data = json.load(file_object)$/;"	v
+data	answered-review_questions/pt2answers/q18.py	/^data = json.load(file_object)$/;"	v
+data	answered-unit7/01-student-record/answer.py	/^data = {$/;"	v
+data	answered-unit7/01-student-record/starter-code.py	/^data = {$/;"	v
+data	answered-unit7/04-student-record-pt-2/answer.py	/^    data = json.load(file_object)$/;"	v
+data	answered-unit7/04-student-record-pt-2/answer.py	/^    data = {}$/;"	v
+data	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^data = read_data("records.json")$/;"	v
+data	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^data = json.load(file_object)$/;"	v
+data	answered-unit7/05-student-record-pt-3/answer1.py	/^data = {$/;"	v
+data	answered-unit7/05-student-record-pt-3/answer2.py	/^    data = json.load(file_object)$/;"	v
+data	answered-unit7/05-student-record-pt-3/answer2.py	/^    data = {}$/;"	v
+data	answered-unit7/05-student-record-pt-3/answer3.py	/^    data = json.load(file_object)$/;"	v
+data	answered-unit7/05-student-record-pt-3/answer3.py	/^    data = {}$/;"	v
+data	lecture7/updateandsave.py	/^        data = json.load(file_object)$/;"	v
+data	lecture7/updateandsave.py	/^    data = {}$/;"	v
+data	scratch/unit7/04-student-record-pt-2/tryexcept.py	/^    data = json.load(file_object)$/;"	v
+data	scratch/unit7/04-student-record-pt-2/tryexcept.py	/^    data = {}$/;"	v
+data	today/unit7/03-json-dict/answer.py	/^data = json.load(myfile)$/;"	v
+data_dict	lecture8/jsonload.py	/^data_dict = json.load(file_object)$/;"	v
+decrease	answered-day7quiz/answer2.py	/^def decrease():$/;"	f
+decrease	answered-day7quiz/newanswers/answer2.py	/^def decrease():$/;"	f
+dic_to_json_string	lecture7/bak/E_json.py	/^def dic_to_json_string(dictionary=example_dict):$/;"	f
+dictionary	answered-day9quiz/answers/answer1.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/answers/answer2.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/answers/answer3.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/answers/answer4.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/answers/code.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/p1.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/p2.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/p3.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/p4.py	/^dictionary = {$/;"	v
+dictionary	answered-day9quiz/p5.py	/^dictionary = json.load(infile)$/;"	v
+dictionary	lecture7/bak/D_dict.py	/^dictionary = {$/;"	v
+dictionary	lecture7/readsimple.py	/^    dictionary = json.load(file_object)$/;"	v
+dictionary	lecture7/simplejson.py	/^dictionary = {$/;"	v
+dictionary_example	lecture7/bak/D_dict.py	/^def dictionary_example():$/;"	f
+dictionary_loop	lecture7/bak/D_dict.py	/^def dictionary_loop(a_dictionary=ordered):$/;"	f
+dimes	answered-unit1-UPDATE/05-LooseChange/answer.py	/^dimes = cents \/\/ 10$/;"	v
+dimes	answered-unit1/04-BonusMoney/answer.py	/^dimes = cents \/\/ 10$/;"	v
+dimes	answered-unit2/05moneyPt2/money.py	/^dimes = cents \/\/ 10$/;"	v
+emphasize	answered-day7quiz/newanswers/answer3.py	/^def emphasize(string):$/;"	f
+endings	answered-unit1-UPDATE/05-LooseChange/answer.py	/^endings = ("s", "", "s", "s", "s", "s", "s", "s", "s", "s")$/;"	v
+example_dict	lecture7/bak/E_json.py	/^example_dict = {$/;"	v
+examplestring	lecture3-4/01-sequence-types.py	/^examplestring = "stored value"$/;"	v
+fifties	answered-unit1-UPDATE/05-LooseChange/answer.py	/^fifties = cents \/\/ (50 * 100)$/;"	v
+fifties	answered-unit1-UPDATE/05-LooseChange/newanswer.py	/^fifties = amount \/\/ 5000$/;"	v
+fifties	answered-unit1/04-BonusMoney/answer.py	/^fifties = cents \/\/ (50 * 100)$/;"	v
+fifties	answered-unit2/05moneyPt2/money.py	/^fifties = cents \/\/ (50 * 100)$/;"	v
+file_answer	answered-unit6/01-caps/answer.py	/^def file_answer(inputfile, outputfile):$/;"	f
+file_object	answered-day7quiz/answer4.py	/^file_object = open("sonnet.txt")$/;"	v
+file_object	answered-day7quiz/answer5.py	/^file_object = open("output.txt", "w")$/;"	v
+file_object	answered-day7quiz/newanswers/answer4.py	/^file_object = open("sonnet.txt", "r")$/;"	v
+file_object	answered-day9quiz/answers/answer3.py	/^file_object = open("dictionary.json", "w")$/;"	v
+file_object	answered-day9quiz/answers/answer5.py	/^file_object = open("example.json", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/copy.py	/^file_object = open("numbers.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q1.py	/^file_object = open("output.txt", "w")$/;"	v
+file_object	answered-review_questions/pt2answers/q10.py	/^file_object = open("numbers.txt", "a")$/;"	v
+file_object	answered-review_questions/pt2answers/q12.py	/^file_object = open("output.json", "w")$/;"	v
+file_object	answered-review_questions/pt2answers/q13.py	/^file_object = open("example.json", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q14.py	/^file_object = open("example.json")$/;"	v
+file_object	answered-review_questions/pt2answers/q14.py	/^file_object = open("example.json", "w")$/;"	v
+file_object	answered-review_questions/pt2answers/q15.py	/^file_object = open("example2.json", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q16.py	/^file_object = open("example3.json", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q17.py	/^file_object = open("example3.json", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q17.py	/^file_object = open("example3.json", "w")$/;"	v
+file_object	answered-review_questions/pt2answers/q18.py	/^file_object = open("example3.json", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q18.py	/^file_object = open("example3.json", "w")$/;"	v
+file_object	answered-review_questions/pt2answers/q2.py	/^file_object = open("output.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q3.py	/^file_object = open("output.txt", "w")$/;"	v
+file_object	answered-review_questions/pt2answers/q4.py	/^file_object = open("output.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q5.py	/^file_object = open("thisis.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q6.py	/^file_object = open("thisis.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q7.py	/^file_object = open("thisis.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q8.py	/^file_object = open("numbers.txt", "r")$/;"	v
+file_object	answered-review_questions/pt2answers/q9.py	/^file_object = open("numbers.txt", "r")$/;"	v
+file_object	answered-unit7/04-student-record-pt-2/answer.py	/^    file_object = open('records.json', 'r')$/;"	v
+file_object	answered-unit7/04-student-record-pt-2/answer.py	/^file_object = open('records.json', 'w')$/;"	v
+file_object	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^file_object = open("records.json", "r")$/;"	v
+file_object	answered-unit7/05-student-record-pt-3/answer2.py	/^    file_object = open('records.json', 'r')$/;"	v
+file_object	answered-unit7/05-student-record-pt-3/answer2.py	/^file_object = open('records.json', 'w')$/;"	v
+file_object	answered-unit7/05-student-record-pt-3/answer3.py	/^    file_object = open('records.json', 'r')$/;"	v
+file_object	lecture8/jsondump.py	/^file_object = open("grades.json", "w")$/;"	v
+file_object	lecture8/jsondump.py	/^file_object = open("villains.json", "w")$/;"	v
+file_object	lecture8/jsonload.py	/^file_object = open("villains.json", "r")$/;"	v
+file_object	scratch/unit7/04-student-record-pt-2/tryexcept.py	/^    file_object = open("results.json", "r")$/;"	v
+file_object_output	answered-review_questions/pt2answers/copy.py	/^file_object_output = open("numbers2.txt", "w")$/;"	v
+filename	lecture7/updateandsave.py	/^filename = "data.json"$/;"	v
+fileobject	lecture5/demo.py	/^fileobject = open("tyger.txt", "r")$/;"	v
+fileobject	lecture5/file-write-input-loop.py	/^fileobject = open("output.txt", "w")$/;"	v
+fileobject	lecture5/lettersonlyprocess.py	/^fileobject = open("tyger.txt", "r")$/;"	v
+fileobject	lecture5/readexample.py	/^fileobject = open("tyger.txt", "r")$/;"	v
+fileobject	lecture5/writeexample.py	/^fileobject = open("newfile.txt", "w")$/;"	v
+findlongest	answered-unit6/03-word-count/answer.py	/^def findlongest(filename):$/;"	f
+first	answered-review_questions/pt1answers/q05.py	/^first = "Carter"$/;"	v
+first	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^first = 3$/;"	v
+first	answered-unit1/03-BonusFormatFunction/answer.py	/^first = 3$/;"	v
+firstletter	answered-unit5/02-function-design/answer2.py	/^def firstletter(string):$/;"	f
+firstname	answered-unit7/04-student-record-pt-2/answer.py	/^firstname = input("Input name: ")$/;"	v
+firstname	answered-unit7/05-student-record-pt-3/answer2.py	/^firstname = input("Input name: ")$/;"	v
+firstname	unit2/in-class-code/andor.py	/^firstname = input("What is your first name? ")$/;"	v
+fives	answered-unit1-UPDATE/05-LooseChange/answer.py	/^fives = cents \/\/ (5 * 100)$/;"	v
+fives	answered-unit1/04-BonusMoney/answer.py	/^fives = cents \/\/ (5 * 100)$/;"	v
+fives	answered-unit2/05moneyPt2/money.py	/^fives = cents \/\/ (5 * 100)$/;"	v
+floatlist	answered-unit6/04-process-file/answer.py	/^floatlist = get_nums("mbox-short.txt", "X-DSPAM-Confidence:")$/;"	v
+formatstring	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^formatstring = "Look at [{:<15}] now."$/;"	v
+formatstring	answered-unit1-UPDATE/05-LooseChange/answer.py	/^formatstring = "You have {} {}{}."$/;"	v
+formatstring	answered-unit1/03-BonusFormatFunction/answer.py	/^formatstring = "Look at [{:<15}] now."$/;"	v
+formatstring	answered-unit1/04-BonusMoney/answer.py	/^formatstring = "You have {} {}."$/;"	v
+formatstring	answered-unit2/05moneyPt2/money.py	/^formatstring = "You have {} {}."$/;"	v
+formatstring2	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^formatstring2 = "Look at [{:>15}] now."$/;"	v
+formatstring2	answered-unit1/03-BonusFormatFunction/answer.py	/^formatstring2 = "Look at [{:>15}] now."$/;"	v
+fullname	answered-review_questions/pt1answers/q05.py	/^fullname = first + " " + last$/;"	v
+func1	answered-unit5/02-function-design/answer.py	/^def func1(number):$/;"	f
+func2	answered-unit5/02-function-design/answer.py	/^def func2(string):$/;"	f
+func3	answered-unit5/02-function-design/answer.py	/^def func3(length):$/;"	f
+func4	answered-unit5/02-function-design/answer.py	/^def func4(inputlist):$/;"	f
+func5	answered-unit5/02-function-design/answer.py	/^def func5(inputlist):$/;"	f
+func6	answered-unit5/02-function-design/answer.py	/^def func6(number):$/;"	f
+func7	answered-unit5/02-function-design/answer.py	/^def func7(width, height):$/;"	f
+getAnswer	answered-unit5/00-update-book/answer.py	/^def getAnswer(index):$/;"	f
+get_average	answered-unit7/01-student-record/answer.py	/^def get_average(student_name):$/;"	f
+get_average	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^def get_average(student_name):$/;"	f
+get_average	answered-unit7/05-student-record-pt-3/answer1.py	/^def get_average(student_name):$/;"	f
+get_average	answered-unit7/05-student-record-pt-3/answer3.py	/^def get_average(student_name, data):$/;"	f
+get_average	scratch/unit7/01-student-record/answer.py	/^def get_average(student_name):$/;"	f
+get_average	today/unit7/01-student-record/answer.py	/^def get_average(student_name):$/;"	f
+get_average	unit7/01-student-record/answer.py	/^def get_average(student_name):$/;"	f
+get_counts_dict	answered-unit7/02-word-count2/answer.py	/^def get_counts_dict(filename):$/;"	f
+get_id	answered-day9quiz/answers/answer4.py	/^def get_id(dictionary, name):$/;"	f
+get_id	answered-day9quiz/p4.py	/^def get_id(dictionary, name):$/;"	f
+get_mean	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^def get_mean(numberlist):$/;"	f
+get_mean	scratch/unit7/01-student-record/answer.py	/^def get_mean(numberlist):$/;"	f
+get_mean	today/unit7/01-student-record/answer.py	/^def get_mean(numberlist):$/;"	f
+get_mean	unit7/01-student-record/answer.py	/^def get_mean(numberlist):$/;"	f
+get_nums	answered-unit6/04-process-file/answer.py	/^def get_nums(filename, search_string):$/;"	f
+get_sorted_counts_list	answered-unit7/02-word-count2/answer.py	/^def get_sorted_counts_list(counts_dict):$/;"	f
+getcounts	scratch/unit7/02-word-count2/word-count-answer.py	/^def getcounts(filename):$/;"	f
+getdigits	answered-review_questions/pt1answers/q23.py	/^def getdigits(number):$/;"	f
+getscores	answered-unit7/04-student-record-pt-2/answer.py	/^def getscores(scorestring):$/;"	f
+getscores	answered-unit7/05-student-record-pt-3/answer2.py	/^def getscores(scorestring):$/;"	f
+getword	answered-unit6/03-word-count/answer.py	/^def getword(string):$/;"	f
+gpa	answered-day9quiz/answers/answer1.py	/^    gpa = subdict['gpa']$/;"	v
+gpa	answered-review_questions/pt2answers/q18.py	/^        gpa = float(gpa)$/;"	v
+gpa	answered-review_questions/pt2answers/q18.py	/^    gpa = input("Enter student GPA (00.0 - 100.0): ")$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = "A"$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = "B"$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = "C"$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = "D"$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = "F"$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = grade + "+"$/;"	v
+grade	answered-unit2/02grades/grades.py	/^        grade = grade + "-"$/;"	v
+hundreds	answered-unit1-UPDATE/05-LooseChange/answer.py	/^hundreds = cents \/\/ (100 * 100)$/;"	v
+hundreds	answered-unit1-UPDATE/05-LooseChange/newanswer.py	/^hundreds = amount \/\/ 10000$/;"	v
+hundreds	answered-unit1/04-BonusMoney/answer.py	/^hundreds = cents \/\/ (100 * 100)$/;"	v
+hundreds	answered-unit2/05moneyPt2/money.py	/^hundreds = cents \/\/ (100 * 100)$/;"	v
+hwgradelist	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^hwgradelist = splitgrades(hwgrades)$/;"	v
+hwgrades	answered-unit7/04-student-record-pt-2/answer.py	/^hwgrades = input("Input homework grades: ")$/;"	v
+hwgrades	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^hwgrades = input("Input the student's homework grades. Separate numbers by spaces: ")$/;"	v
+hwgrades	answered-unit7/05-student-record-pt-3/answer2.py	/^hwgrades = input("Input homework grades: ")$/;"	v
+hwlist	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^    hwlist = data[key]["homework"]$/;"	v
+i	lecture2/06while.py	/^    i = i + 1$/;"	v
+i	lecture2/06while.py	/^i = 0$/;"	v
+i	lecture2/06while.py	/^i = 122$/;"	v
+i	lecture2/07whilemath.py	/^    i = i + 1$/;"	v
+i	lecture2/07whilemath.py	/^i = 1$/;"	v
+increase	answered-day7quiz/answer2.py	/^def increase():$/;"	f
+increase	answered-day7quiz/newanswers/answer2.py	/^def increase():$/;"	f
+index	answered-review_questions/pt1answers/q08bonus.py	/^index = random.randint(0,2)$/;"	v
+infile	answered-day9quiz/p5.py	/^infile = open("example.json", "r")$/;"	v
+input1	answered-review_questions/pt1answers/q13.py	/^input1 = input("Input a string: ")$/;"	v
+input2	answered-review_questions/pt1answers/q13.py	/^input2 = input("Input another string: ")$/;"	v
+inputstring	answered-unit3/03-simple-lists/answer.py	/^    inputstring = input("Please enter a string that is at least 10 characters long")$/;"	v
+inputstring	answered-unit3/03-simple-lists/answer.py	/^inputstring = ""$/;"	v
+intlist	answered-review_questions/pt1answers/q09.py	/^intlist = []$/;"	v
+intlist	answered-review_questions/pt1answers/q10.py	/^intlist = []$/;"	v
+isfalse	lecture3-4/01-sequence-types.py	/^    isfalse = True$/;"	v
+isfalse	lecture3-4/01-sequence-types.py	/^isfalse = False$/;"	v
+islong	answered-unit1-UPDATE/03-Strings/answer.py	/^islong = bool(len(string) > 10)$/;"	v
+isnumdiv7	answered-unit5/02-function-design/answer2.py	/^def isnumdiv7(number):$/;"	f
+isstring10	answered-unit5/02-function-design/answer2.py	/^def isstring10(string):$/;"	f
+istrue	lecture3-4/01-sequence-types.py	/^    istrue = True$/;"	v
+istrue	lecture3-4/01-sequence-types.py	/^istrue = False$/;"	v
+isvowel	answered-review_questions/pt1answers/q14-extra.py	/^def isvowel(string):$/;"	f
+isvowel	answered-review_questions/pt1answers/q15.py	/^def isvowel(string):$/;"	f
+keepgoing	answered-unit5/00-update-book/answer.py	/^        keepgoing = False$/;"	v
+keepgoing	answered-unit5/00-update-book/answer.py	/^keepgoing = True$/;"	v
+keeplooping	lecture5/file-write-input-loop.py	/^        keeplooping = False$/;"	v
+keeplooping	lecture5/file-write-input-loop.py	/^keeplooping = True$/;"	v
+key	answered-unit7/04-student-record-pt-2/answer.py	/^key = firstname.lower()$/;"	v
+key	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^key = name.lower()$/;"	v
+key	answered-unit7/05-student-record-pt-3/answer2.py	/^key = firstname.lower()$/;"	v
+keys	answered-unit7/01-student-record/answer.py	/^    keys = ["name", "homework", "quizzes", "tests"]$/;"	v
+keys	answered-unit7/05-student-record-pt-3/answer1.py	/^    keys = ["name", "homework", "quizzes", "tests"]$/;"	v
+last	answered-review_questions/pt1answers/q05.py	/^last = "Adams"$/;"	v
+lastelement	answered-unit3/03-simple-lists/answer.py	/^lastelement = alist.pop()$/;"	v
+lastname	unit2/in-class-code/andor.py	/^lastname = input("What is your last name? ")$/;"	v
+lastnum	lecture3/04lists.py	/^lastnum = counting.pop()$/;"	v
+lastvalue	lecture3-4/04-lists.py	/^lastvalue = blist.pop()$/;"	v
+length	answered-unit3/05-middle-third/answer.py	/^length = len(phrase)$/;"	v
+letter_grade	answered-unit7/01-student-record/answer.py	/^def letter_grade(score):$/;"	f
+letter_grade	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^def letter_grade(number_grade):$/;"	f
+letter_grade	answered-unit7/05-student-record-pt-3/answer1.py	/^def letter_grade(score):$/;"	f
+letter_grade	answered-unit7/05-student-record-pt-3/answer3.py	/^def letter_grade(score):$/;"	f
+letter_grade	scratch/unit7/01-student-record/answer.py	/^def letter_grade(number_grade):$/;"	f
+letter_grade	today/unit7/01-student-record/answer.py	/^def letter_grade(number_grade):$/;"	f
+letter_grade	unit7/01-student-record/answer.py	/^def letter_grade(number_grade):$/;"	f
+letterlist	lecture3/04lists.py	/^letterlist = list(message)$/;"	v
+letterlist	lecture3/05slices.py	/^letterlist = list("The quick brown fox jumps over the lazy dog")$/;"	v
+lloyd	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^lloyd = {$/;"	v
+lloyd	scratch/unit7/01-student-record/answer.py	/^lloyd = {$/;"	v
+lloyd	today/unit7/01-student-record/answer.py	/^lloyd = {$/;"	v
+lloyd	unit7/01-student-record/answer.py	/^lloyd = {$/;"	v
+load_dictionary	lecture7/bak/E_json.py	/^def load_dictionary(filename='example.json'):$/;"	f
+longer	answered-day7quiz/answer.py	/^def longer(string1, string2):$/;"	f
+longerstring	answered-day7quiz/newanswers/answer1.py	/^def longerstring(string1, string2):$/;"	f
+longestword	answered-unit6/03-word-count/answer.py	/^def longestword(line):$/;"	f
+longstr	answered-unit5/02-function-design/answer.py	/^longstr = "Now is the time for all good folks to come to the aid of their country - Patrick Henry (sort of)"$/;"	v
+magic8ball	answered-unit5/00-update-book/answer.py	/^def magic8ball():$/;"	f
+mainloop	answered-unit6/02-grade-entry/answer.py	/^def mainloop(filename):$/;"	f
+makeword	answered-unit7/02-word-count2/answer.py	/^def makeword(word):$/;"	f
+matches	answered-review_questions/pt1answers/q13.py	/^matches = []$/;"	v
+maximum	lecture3-4/02-range.py	/^maximum = 7$/;"	v
+mergedicts	answered-review_questions/pt1answers/q30.py	/^def mergedicts(dictlist):$/;"	f
+mergesums	answered-review_questions/pt1answers/q30.py	/^def mergesums(dict1, dict2):$/;"	f
+message	answered-review_questions/pt1answers/q06.py	/^message = input("Enter a message: ")$/;"	v
+message	lecture3/02sequences.py	/^message = "I hope everyone is enjoying Python Foundations so far!"$/;"	v
+message	lecture3/03forin.py	/^message = "Now is the time for all good men to come to the aid of their country."$/;"	v
+message	lecture3/04lists.py	/^message = "Carter Adams"$/;"	v
+messages	answered-unit5/00-update-book/answer2.py	/^messages = ["good fortune", "bad fortune", "i don't know"]$/;"	v
+method1	lecture5/file-read.py	/^def method1():$/;"	f
+method1	lecture5/file-write.py	/^def method1(stringlist):$/;"	f
+method2	lecture5/file-read.py	/^def method2():$/;"	f
+method2	lecture5/file-write.py	/^def method2(stringlist):$/;"	f
+modify	lecture7/bak/D_dict.py	/^def modify(a_dictionary=ordered):$/;"	f
+myfile	today/unit7/03-json-dict/answer.py	/^myfile = open('tsla.json', 'r')$/;"	v
+myinput	scratch/examplecount.py	/^myinput = ""$/;"	v
+myint	scratch/unit7/04-student-record-pt-2/tryexcept.py	/^    myint = 0$/;"	v
+myint	scratch/unit7/04-student-record-pt-2/tryexcept.py	/^    myint = int(input("input an integer"))$/;"	v
+mylist	lecture3/04lists.py	/^mylist = []$/;"	v
+myrange	lecture3-4/02-range.py	/^myrange = range(maximum)$/;"	v
+myrange	lecture3-4/02-range.py	/^myrange = range(start, stop)$/;"	v
+mystrings	lecture5/writeexample.py	/^mystrings = ["first line", "second line", "third line", "fourth line"]$/;"	v
+mysum	answered-day7quiz/wrongway.py	/^mysum = tellanswer(5, 6)$/;"	v
+mysum	answered-review_questions/pt1answers/q09.py	/^mysum = 0$/;"	v
+mysum	answered-review_questions/pt1answers/q10.py	/^mysum = 0$/;"	v
+mysum	answered-unit6/04-process-file/answer.py	/^def mysum(floatlist):$/;"	f
+n	answered-day7quiz/answer4.py	/^    n = len(line.split())$/;"	v
+n	answered-unit3/01-for-and-while/answer.py	/^n = input("Give me an integer: ")$/;"	v
+n	answered-unit3/01-for-and-while/answer.py	/^n = int(n)$/;"	v
+n	lecture7/updateandsave.py	/^n = len(data)$/;"	v
+name	answered-review_questions/pt2answers/q18.py	/^    name = input("Enter student name: ")$/;"	v
+name	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^name = input("What is the student's first name? ")$/;"	v
+name	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^    name = data[key]["name"]$/;"	v
+name	lecture2/02if.py	/^name = input("What is your name? ")$/;"	v
+name	lecture2/03else.py	/^name = input("What is your name? ")$/;"	v
+name	lecture2/04elif.py	/^name = input("What is your name? ")$/;"	v
+name	lecture2/08whileinput.py	/^    name = input("Enter a name: ")$/;"	v
+name	lecture2/08whileinput.py	/^name = None$/;"	v
+name	lecture3-4/01-sequence-types.py	/^name = "Serge"$/;"	v
+name	unit2/in-class-code/if.py	/^name = input("What is your name? ")$/;"	v
+name1	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^name1 = "Nikil"$/;"	v
+name1	answered-unit1-UPDATE/04-BonusFormatMethod/newanswer.py	/^name1 = "Nikil"$/;"	v
+name1	answered-unit1/03-BonusFormatFunction/answer.py	/^name1 = "Nikil"$/;"	v
+name2	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^name2 = "Josephine"$/;"	v
+name2	answered-unit1-UPDATE/04-BonusFormatMethod/newanswer.py	/^name2 = "Josephine"$/;"	v
+name2	answered-unit1/03-BonusFormatFunction/answer.py	/^name2 = "Josephine"$/;"	v
+newdict	today/unit7/03-json-dict/answer.py	/^newdict = {}$/;"	v
+newkey	lecture7/updateandsave.py	/^newkey = "newdata{}".format(n)$/;"	v
+newlist	answered-day7quiz/answer3.py	/^newlist = []$/;"	v
+newlist	answered-review_questions/pt1answers/q11.py	/^newlist = []$/;"	v
+newlist	answered-review_questions/pt1answers/q12.py	/^newlist = []$/;"	v
+newlist	answered-review_questions/pt2answers/q7.py	/^newlist = []$/;"	v
+newlist	answered-unit3/04-lists-and-loops/answer.py	/^newlist = []$/;"	v
+newlist	lecture5/demo.py	/^    newlist = []$/;"	v
+newlist	lecture5/lettersonlyprocess.py	/^    newlist = []$/;"	v
+newmessage	answered-unit3/06-challenge-caesar-cypher/answer.py	/^    newmessage = newmessage + chr(newval)$/;"	v
+newmessage	answered-unit3/06-challenge-caesar-cypher/answer.py	/^newmessage = ""$/;"	v
+newrecord	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^newrecord = {$/;"	v
+newval	answered-unit3/06-challenge-caesar-cypher/answer.py	/^        newval = (val - VAL_A + shift) % 26 + VAL_A$/;"	v
+newval	answered-unit3/06-challenge-caesar-cypher/answer.py	/^        newval = (val - VAL_a + shift) % 26 + VAL_a$/;"	v
+newval	answered-unit3/06-challenge-caesar-cypher/answer.py	/^        newval = val$/;"	v
+nickels	answered-unit1-UPDATE/05-LooseChange/answer.py	/^nickels = cents \/\/ 5$/;"	v
+nickels	answered-unit1/04-BonusMoney/answer.py	/^nickels = cents \/\/ 5$/;"	v
+nickels	answered-unit2/05moneyPt2/money.py	/^nickels = cents \/\/ 5$/;"	v
+num	answered-day7quiz/newanswers/answer5.py	/^num = []$/;"	v
+number	answered-day3quiz/problem1.py	/^number = int(numberstring)$/;"	v
+number	answered-review_questions/pt1answers/q06.py	/^number = int(input("Enter an int: "))$/;"	v
+number	answered-review_questions/pt1answers/q07.py	/^number = int(input("Input a number: "))$/;"	v
+number	answered-unit2/01conditionals/conditionals.py	/^    number = number * 7$/;"	v
+number	answered-unit2/01conditionals/conditionals.py	/^    number = number \/\/ 7$/;"	v
+number	answered-unit2/01conditionals/conditionals.py	/^number = int(input("Input an integer: "))$/;"	v
+number	answered-unit2/04fizzbuzz/fizzbuzz.py	/^    number = number + 1$/;"	v
+number	answered-unit2/04fizzbuzz/fizzbuzz.py	/^number = 1$/;"	v
+number	answered-unit2/06tryexcept/tryexcept.py	/^            number = int(userinput)$/;"	v
+number	lecture2/04elif.py	/^number = int(input("Tell me a number: "))$/;"	v
+numberlist	answered-unit3/04-lists-and-loops/answer.py	/^numberlist = []$/;"	v
+numberlist	answered-unit3/04-lists-and-loops/test.py	/^numberlist = []$/;"	v
+numbers	answered-review_questions/pt2answers/q9.py	/^numbers = []$/;"	v
+numbers	lecture3/06forwithlists.py	/^numbers = list(range(5))$/;"	v
+numberstring	answered-day3quiz/problem1.py	/^numberstring = input("Input an integer: ")$/;"	v
+numberstring	unit2/in-class-code/forloop.py	/^    numberstring = numberstring + str(user_input)$/;"	v
+numberstring	unit2/in-class-code/forloop.py	/^numberstring = ""$/;"	v
+numberstrings	lecture3/06forwithlists.py	/^numberstrings = []$/;"	v
+ones	answered-unit1-UPDATE/05-LooseChange/answer.py	/^ones = cents \/\/ (1 * 100)$/;"	v
+ones	answered-unit1/04-BonusMoney/answer.py	/^ones = cents \/\/ (1 * 100)$/;"	v
+ones	answered-unit2/05moneyPt2/money.py	/^ones = cents \/\/ (1 * 100)$/;"	v
+ordered	lecture7/bak/D_dict.py	/^ordered = {$/;"	v
+output_file	answered-day7quiz/newanswers/answer5.py	/^output_file = open("output.txt", "w")$/;"	v
+output_list	answered-review_questions/pt2answers/q4.py	/^output_list = []$/;"	v
+output_message	answered-unit3/06-challenge-caesar-cypher/answer.py	/^output_message = []$/;"	v
+outputfile	today/unit7/03-json-dict/answer.py	/^outputfile = open('tsla_summary.json', 'w')$/;"	v
+outputjson	answered-day9quiz/p3.py	/^outputjson = open("dictionary.json", "w")$/;"	v
+outputline	answered-review_questions/pt2answers/q6.py	/^    outputline = transform(i)$/;"	v
+outputline	answered-unit6/02-grade-entry/answer.py	/^def outputline(valuetuple):$/;"	f
+outputstring	answered-unit1-UPDATE/04-BonusFormatMethod/newanswer.py	/^outputstring = "Look at [{:>15}] now"$/;"	v
+outputstring	answered-unit3/04-lists-and-loops/answer.py	/^outputstring = ", ".join(strlist)$/;"	v
+pecks	answered-review_questions/pt1answers/q03.py	/^pecks = 51$/;"	v
+pennies	answered-unit1-UPDATE/05-LooseChange/answer.py	/^pennies = cents$/;"	v
+pennies	answered-unit1/04-BonusMoney/answer.py	/^pennies = cents$/;"	v
+pennies	answered-unit2/05moneyPt2/money.py	/^pennies = cents$/;"	v
+penny_endings	answered-unit1-UPDATE/05-LooseChange/answer.py	/^penny_endings = ("ies", "y", "ies", "ies", "ies", "ies", "ies", "ies", "ies")$/;"	v
+phrase	answered-unit3/05-middle-third/answer.py	/^phrase = input("Input a phrase: ")$/;"	v
+phrase	answered-unit3/06-challenge-caesar-cypher/answer.py	/^phrase = input("Enter a phrase to encrypt: ")$/;"	v
+phrase	answered-unit5/03-variable-caps/answer.py	/^phrase = input("Give me a phrase: ")$/;"	v
+pigs	answered-unit1-UPDATE/04-BonusFormatMethod/newanswer.py	/^pigs = "little pigs"$/;"	v
+possibilities	answered-review_questions/pt1answers/q08bonus.py	/^possibilities = ["rock", "paper", "scissors"]$/;"	v
+print_top_n_words	answered-unit7/02-word-count2/answer.py	/^def print_top_n_words(counts_list, n):$/;"	f
+printlist	answered-unit5/02-function-design/answer2.py	/^def printlist(alist):$/;"	f
+printrange	answered-review_questions/pt1answers/q18-and.py	/^def printrange(myint):$/;"	f
+printrange	answered-review_questions/pt1answers/q18.py	/^def printrange(myint):$/;"	f
+processlist	answered-day7quiz/newanswers/answer3.py	/^def processlist(stringlist):$/;"	f
+processphrase	answered-unit5/03-variable-caps/answer.py	/^def processphrase(phrase):$/;"	f
+processphrase	answered-unit5/03-variable-caps/answer2.py	/^def processphrase(phrase):$/;"	f
+processphrase	answered-unit5/03-variable-caps/question3unit5answer.py	/^def processphrase(phrase):$/;"	f
+processwordlist	answered-unit5/03-variable-caps/answer2.py	/^def processwordlist(wlist):$/;"	f
+processwordlist	answered-unit5/03-variable-caps/question3unit5answer.py	/^def processwordlist(wlist):$/;"	f
+product	lecturepad5/lecturepad5.py	/^def product(x, y):$/;"	f
+prompt_hours	answered-unit5/01-function-pay/answer.py	/^def prompt_hours():$/;"	f
+prompt_rate	answered-unit5/01-function-pay/answer.py	/^def prompt_rate():$/;"	f
+prompt_values	answered-unit6/02-grade-entry/answer.py	/^def prompt_values():$/;"	f
+quarters	answered-unit1-UPDATE/05-LooseChange/answer.py	/^quarters = cents \/\/ 25$/;"	v
+quarters	answered-unit1/04-BonusMoney/answer.py	/^quarters = cents \/\/ 25$/;"	v
+quarters	answered-unit2/05moneyPt2/money.py	/^quarters = cents \/\/ 25$/;"	v
+question	answered-unit5/00-update-book/answer.py	/^    question = input("Enter a question or input 'quit' to quit. ")$/;"	v
+quizgradelist	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^quizgradelist = splitgrades(quizgrades)$/;"	v
+quizgrades	answered-unit7/04-student-record-pt-2/answer.py	/^quizgrades = input("Input quiz grades: ")$/;"	v
+quizgrades	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^quizgrades = input("Input the student's quiz grades. Separate numbers by spaces: ")$/;"	v
+quizgrades	answered-unit7/05-student-record-pt-3/answer2.py	/^quizgrades = input("Input quiz grades: ")$/;"	v
+quizlist	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^    quizlist = data[key]["quizzes"]$/;"	v
+rate	answered-unit1/02-PayCalculator/answer.py	/^rate = float(ratestring)$/;"	v
+ratestring	answered-unit1/02-PayCalculator/answer.py	/^ratestring = input("At what hourly rate of pay? ")$/;"	v
+read_csv	curriculum/curriculum.py	/^def read_csv():$/;"	f
+read_data	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^def read_data(filename):$/;"	f
+record	answered-day9quiz/p1.py	/^    record = dictionary[key]$/;"	v
+records	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^records = {}$/;"	v
+records	scratch/unit7/01-student-record/answer.py	/^records = {}$/;"	v
+records	today/unit7/01-student-record/answer.py	/^records = {}$/;"	v
+records	unit7/01-student-record/answer.py	/^records = {}$/;"	v
+removevowel	answered-review_questions/pt1answers/q15.py	/^def removevowel(string):$/;"	f
+result	answered-unit1-UPDATE/03-Strings/newanswer.py	/^result = "Byte".upper() in text.upper()$/;"	v
+result2	answered-unit1-UPDATE/03-Strings/newanswer.py	/^result2 = len(text) > 10$/;"	v
+reverse	answered-review_questions/pt1answers/q20.py	/^def reverse(mystring):$/;"	f
+score	answered-unit2/02grades/grades.py	/^score = int(input("Input a grade between 0 and 100: "))$/;"	v
+second	answered-unit1-UPDATE/04-BonusFormatMethod/answer.py	/^second = "little pigs"$/;"	v
+second	answered-unit1/03-BonusFormatFunction/answer.py	/^second = "little pigs"$/;"	v
+secondlist	answered-review_questions/pt2answers/q7.py	/^secondlist = []$/;"	v
+segment	answered-unit5/02-function-design/answer2.py	/^def segment(string):$/;"	f
+sequence	answered-review_questions/pt1answers/q17.py	/^sequence = list(range(20))$/;"	v
+sequence	unit2/in-class-code/forloop.py	/^sequence = "Carter"$/;"	v
+sequence	unit2/in-class-code/forloop.py	/^sequence = (1, 2, 3)$/;"	v
+shift	answered-unit3/06-challenge-caesar-cypher/answer.py	/^shift = int(input("Input the shift value: "))$/;"	v
+shortstr	answered-unit5/02-function-design/answer.py	/^shortstr = "Vote 11\/6"$/;"	v
+somestrings	lecture5/file-write.py	/^somestrings = ["one", "two", "three", "four"]$/;"	v
+sorted_dict	answered-unit7/02-word-count2/advanced-answer.py	/^def sorted_dict(counts):$/;"	f
+spam	lecture2/05nestedif.py	/^spam = int(input("Give me a spam number: "))$/;"	v
+splitgrades	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^def splitgrades(string):$/;"	f
+splitline	answered-unit7/02-word-count2/advanced-answer.py	/^def splitline(line):$/;"	f
+start	answered-unit3/05-middle-third/answer.py	/^start = length \/\/ 3$/;"	v
+start	lecture3-4/02-range.py	/^start = 0$/;"	v
+start	lecture3-4/02-range.py	/^start = 101$/;"	v
+start	lecture3-4/02-range.py	/^start = 50$/;"	v
+start	lecture3/01range.py	/^start = 0$/;"	v
+step	lecture3-4/02-range.py	/^step = -5$/;"	v
+step	lecture3-4/02-range.py	/^step = 10$/;"	v
+step	lecture3/01range.py	/^step = 5$/;"	v
+stop	answered-unit3/05-middle-third/answer.py	/^stop = (length * 2) \/\/ 3$/;"	v
+stop	lecture3-4/02-range.py	/^stop = 10$/;"	v
+stop	lecture3-4/02-range.py	/^stop = 100$/;"	v
+stop	lecture3-4/02-range.py	/^stop = 107$/;"	v
+stop	lecture3/01range.py	/^stop = 20$/;"	v
+string	answered-day3quiz/problem4.py	/^string = input("Tell me something.")$/;"	v
+string	answered-day5quiz/answer.py	/^string = input("give me a string: ")$/;"	v
+string	answered-review_questions/pt1answers/q11-alternate.py	/^    string = input("Input a string: ")$/;"	v
+string	answered-review_questions/pt1answers/q11.py	/^    string = input("Input a string: ")$/;"	v
+string	answered-review_questions/pt1answers/q12.py	/^    string = input("Input a string: ")$/;"	v
+string	answered-unit1-UPDATE/03-Strings/answer.py	/^string = input("Input some text: ")$/;"	v
+string	lecture5/file-write-input-loop.py	/^    string = input("input 'done' or a string to add to the file: ")$/;"	v
+stringinput	answered-review_questions/pt1answers/q09.py	/^    stringinput = input("Input an integer: ")$/;"	v
+stringinput	answered-review_questions/pt1answers/q10.py	/^    stringinput = input("Input a string: ")$/;"	v
+stringlist	answered-day7quiz/answer3.py	/^stringlist = ["one", "two", "three", "four", "five"]$/;"	v
+stringlist	answered-day7quiz/newanswers/answer3.py	/^stringlist = ["one", "two", "three", "four", "five"]$/;"	v
+stringlist	answered-review_questions/pt1answers/q11-alternate.py	/^stringlist = []$/;"	v
+stringlist	answered-review_questions/pt1answers/q11.py	/^stringlist = []$/;"	v
+stringlist	answered-review_questions/pt1answers/q12.py	/^stringlist = []$/;"	v
+stringlist	answered-review_questions/pt1answers/q16.py	/^def stringlist(mylist):$/;"	f
+stringlist	answered-review_questions/pt1answers/q17.py	/^def stringlist(mylist):$/;"	f
+stringlist	answered-review_questions/pt1answers/q18-and.py	/^def stringlist(mylist):$/;"	f
+stringlist	answered-review_questions/pt1answers/q18.py	/^def stringlist(mylist):$/;"	f
+strings	answered-review_questions/pt2answers/q8.py	/^    strings = line.split()$/;"	v
+stripword	answered-unit7/02-word-count2/advanced-answer.py	/^def stripword(word):$/;"	f
+strlist	answered-unit3/04-lists-and-loops/answer.py	/^strlist = []$/;"	v
+studentgrades	lecture8/jsondump.py	/^studentgrades = {$/;"	v
+studentid	answered-day9quiz/answers/answer1.py	/^    studentid = subdict['student-id']$/;"	v
+studentid	answered-review_questions/pt2answers/q18.py	/^    studentid = input("Enter student ID: ")$/;"	v
+students	answered-unit7/01-student-record/starter-code.py	/^students = ["lloyd", "alice", "tyler"]$/;"	v
+subdict	answered-day9quiz/answers/answer1.py	/^    subdict = dictionary[key]$/;"	v
+subdict	answered-unit7/01-student-record/answer.py	/^    subdict = data[key]$/;"	v
+subdict	answered-unit7/05-student-record-pt-3/answer1.py	/^    subdict = data[key]$/;"	v
+sum	answered-review_questions/pt2answers/q8.py	/^        sum = sum + int(string)$/;"	v
+sum	answered-review_questions/pt2answers/q8.py	/^    sum = 0$/;"	v
+sum1	lecture3-4/03-forin.py	/^    sum1 = sum1 + value$/;"	v
+sum1	lecture3-4/03-forin.py	/^sum1 = 0$/;"	v
+sum2	lecture3-4/03-forin.py	/^    sum2 = sum2 + value$/;"	v
+sum2	lecture3-4/03-forin.py	/^sum2 = 0$/;"	v
+tellanswer	answered-day7quiz/wrongway.py	/^def tellanswer(x, y):$/;"	f
+tens	answered-unit1-UPDATE/05-LooseChange/answer.py	/^tens = cents \/\/ (10 * 100)$/;"	v
+tens	answered-unit1/04-BonusMoney/answer.py	/^tens = cents \/\/ (10 * 100)$/;"	v
+tens	answered-unit2/05moneyPt2/money.py	/^tens = cents \/\/ (10 * 100)$/;"	v
+terminal_answer	answered-unit6/01-caps/answer.py	/^def terminal_answer(filename):$/;"	f
+testdict1	answered-review_questions/pt1answers/q30.py	/^testdict1 = {$/;"	v
+testdict2	answered-review_questions/pt1answers/q30.py	/^testdict2 = {$/;"	v
+testdict3	answered-review_questions/pt1answers/q30.py	/^testdict3 = {$/;"	v
+testgradelist	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^testgradelist = splitgrades(testgrades)$/;"	v
+testgrades	answered-unit7/04-student-record-pt-2/answer.py	/^testgrades = input("Input test grades: ")$/;"	v
+testgrades	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^testgrades = input("Input the student's test grades. Separate numbers by spaces: ")$/;"	v
+testgrades	answered-unit7/05-student-record-pt-3/answer2.py	/^testgrades = input("Input test grades: ")$/;"	v
+testlist	answered-unit7/04-student-record-pt-2/bak/p3answer.py	/^    testlist = data[key]["tests"]$/;"	v
+text	answered-unit1-UPDATE/03-Strings/newanswer.py	/^text = input("Input some text: ")$/;"	v
+therange	lecture3/02sequences.py	/^therange = range(0, 100)$/;"	v
+three	answered-unit1-UPDATE/04-BonusFormatMethod/newanswer.py	/^three = 3$/;"	v
+time	answered-unit1/02-PayCalculator/answer.py	/^time = float(timestring)$/;"	v
+timestring	answered-unit1/02-PayCalculator/answer.py	/^timestring = input("How many hours did you work? ")$/;"	v
+total	answered-day7quiz/answer2.py	/^total = 0$/;"	v
+total	answered-day7quiz/answer4.py	/^    total = total + n$/;"	v
+total	answered-day7quiz/answer4.py	/^total = 0$/;"	v
+total	answered-day7quiz/newanswers/answer2.py	/^total = 0$/;"	v
+total	answered-day7quiz/newanswers/answer4.py	/^    total = total + len(line.split())$/;"	v
+total	answered-day7quiz/newanswers/answer4.py	/^total = 0$/;"	v
+total	answered-unit3/03-simple-lists/answer.py	/^        total = total + 1$/;"	v
+total	answered-unit3/03-simple-lists/answer.py	/^total = 0$/;"	v
+total	answered-unit3/04-lists-and-loops/answer.py	/^    total = total + whatever$/;"	v
+total	answered-unit3/04-lists-and-loops/answer.py	/^total = 0$/;"	v
+total	answered-unit6/04-process-file/answer.py	/^total = mysum(floatlist)$/;"	v
+tracksum	lecture3-4/03-forin.py	/^    tracksum = tracksum + value$/;"	v
+tracksum	lecture3-4/03-forin.py	/^tracksum = 0$/;"	v
+transform	answered-review_questions/pt2answers/q6.py	/^def transform(line):$/;"	f
+triple	lecturepad5/lecturepad5.py	/^def triple(x):$/;"	f
+tupnames	lecture3-4/01-sequence-types.py	/^tupnames = ("Carter", "Kenso", "Greg")$/;"	v
+tuppowers	lecture3-4/01-sequence-types.py	/^tuppowers = (0,10,100,1000)$/;"	v
+twenties	answered-unit1-UPDATE/05-LooseChange/answer.py	/^twenties = cents \/\/ (20 * 100)$/;"	v
+twenties	answered-unit1/04-BonusMoney/answer.py	/^twenties = cents \/\/ (20 * 100)$/;"	v
+twenties	answered-unit2/05moneyPt2/money.py	/^twenties = cents \/\/ (20 * 100)$/;"	v
+tyler	answered-unit7/04-student-record-pt-2/bak/p1answer.py	/^tyler = { $/;"	v
+tyler	scratch/unit7/01-student-record/answer.py	/^tyler = { $/;"	v
+tyler	today/unit7/01-student-record/answer.py	/^tyler = { $/;"	v
+tyler	unit7/01-student-record/answer.py	/^tyler = { $/;"	v
+user_input	unit2/in-class-code/forloop.py	/^        user_input = int(user_input)$/;"	v
+user_input	unit2/in-class-code/forloop.py	/^    user_input = input("Input 'done' to quit this: ")$/;"	v
+user_input	unit2/in-class-code/forloop.py	/^    user_input = input("Input an integer or input 'done' to quit this: ")$/;"	v
+userinput	answered-unit2/06tryexcept/tryexcept.py	/^    userinput = input("Input a number or 'done' to quit: ")$/;"	v
+userinput	answered-unit2/06tryexcept/tryexcept.py	/^userinput = None$/;"	v
+val	answered-unit3/01-for-and-while/answer.py	/^    val = val + 2$/;"	v
+val	answered-unit3/01-for-and-while/answer.py	/^val = 0$/;"	v
+val	answered-unit3/06-challenge-caesar-cypher/answer.py	/^    val = ord(char)$/;"	v
+value	answered-day3quiz/problem5.py	/^    value = value + 5$/;"	v
+value	answered-day3quiz/problem5.py	/^value = 5$/;"	v
+value	answered-review_questions/pt2answers/q3.py	/^    value = input("Enter a line of text: ")$/;"	v
+value	answered-unit1-UPDATE/04-BonusFormatMethod/newanswer.py	/^value = 6.7$/;"	v
+value	answered-unit1-UPDATE/05-LooseChange/answer.py	/^value = input("How much change do you have? ")$/;"	v
+value	answered-unit1/04-BonusMoney/answer.py	/^value = input("How much change do you have? ")$/;"	v
+value	answered-unit2/05moneyPt2/money.py	/^value = input("How much change do you have? ")$/;"	v
+value	lecture3-4/03-forin.py	/^    value = value + 1$/;"	v
+value	lecture3-4/03-forin.py	/^value = 0$/;"	v
+value	unit2/in-class-code/forloop.py	/^    value = value + 1$/;"	v
+value	unit2/in-class-code/forloop.py	/^value = 0$/;"	v
+vowels	lecture3-4/03-forin.py	/^vowels = "aeiouAEIOU"$/;"	v
+vowels	lecture3/03forin.py	/^vowels = "AEIOUaeiou"$/;"	v
+word	lecture2/09whilebreakinput.py	/^    word = input("Input a word: ")$/;"	v
+word	scratch/examplecount.py	/^    word = input("give me a word: ")$/;"	v
+wordcounts	scratch/unit7/02-word-count2/word-count-answer.py	/^wordcounts = getcounts("mobydick.txt")$/;"	v
+wordlist	lecture5/demo.py	/^    wordlist = line.split()$/;"	v
+wordlist	lecture5/lettersonlyprocess.py	/^    wordlist = line.split()$/;"	v
+wow	answered-day7quiz/answer3.py	/^def wow(word):$/;"	f
+write_data	answered-unit7/04-student-record-pt-2/bak/p2answer.py	/^def write_data(data, filename):$/;"	f
+write_json	lecture7/bak/E_json.py	/^def write_json(filename, dictionary=example_dict):$/;"	f
+year	answered-unit2/03leapyear/leapyear.py	/^        year = year + 1$/;"	v
+year	answered-unit2/03leapyear/leapyear.py	/^    year = 1880$/;"	v
+year	answered-unit2/03leapyear/leapyear.py	/^    year = int(year)$/;"	v
+year	answered-unit2/03leapyear/leapyear.py	/^year = input(": ")$/;"	v
+zerolist	answered-unit5/02-function-design/answer2.py	/^def zerolist(length):$/;"	f
